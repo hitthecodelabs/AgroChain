@@ -1,0 +1,22 @@
+.home {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.header-title {
+    font-size: 24px;
+    text-align: center;
+    color: #4CAF50;
+}
+
+.step-card {
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+}
+
+.step-card .btn {
+    margin-top: 15px;
+}

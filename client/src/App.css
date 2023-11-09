@@ -1,0 +1,18 @@
+hr{
+    position: relative;
+    top: 20px;
+    border: none;   
+    height: 12px;
+    background: black;
+}
+.wait{
+    text-align: center;
+    margin-top: 5rem;
+}
+
+.header-title {
+    color: #4CAF50;
+    font-size: 24px;
+    text-align: center;
+}
+
